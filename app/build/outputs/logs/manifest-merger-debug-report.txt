@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/095786d2eebab2d56a528f578966da05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/k-hr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b751dd27566a4dcbcb59e6d99a78db1e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/fc7880db938fb921b34eaf45c6dc0ee0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/25b420e6c4423c48640fe09fcfe4ec8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5261dc4570cb67fb4bf344c3ebb8e08d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9501c562bf07d4769a252487885a966d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/775e4fd9d6e87df8794fdd447b4dbc2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1d70c6d1162fd180bd6ac9b35c7fd3ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d977a7a4fa18f8e07adefa240b12022d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1b4e404679ba72babfb7420ac1874e01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2ee9e4d52bcc16a0f7cb16b0855659eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee52643de573500d4ad8103f53a3f5ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d63b59f0a1d55431ab61462e7e143f56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/add152b9a7a0e847bbd51ee83290917e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/92886b4321ca60d30d99d4b38f5b4752/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bb2c2b916e3605f5b91fa246942f5759/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bb69da85e24ec1d7be0ee0ff1ecc3b15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3aead8f74dd3850fd322cc23e79b6060/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d6f2b37ac7e061252a5235accff7d971/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66dfa511e4ff7b14ea2778fa22ae4aa9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0a8f85f074ca3653534f946447969d0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/f5a795d73f45ff85ce059bc0ac5719cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c94f8acc80347e7f7affbf808c7843f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/140a14335c3f795c499c42df4bd51ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6739b3aeeb0cda95e302b0b88ef790ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/379ef798500830474ce2369614f00d1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cdfc0aa0d7b861a8133dfbf68d8d6389/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c001459d0b0d82f0d39fee9de2b0419c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/188e408186ed6fa04489f907edd7ca33/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3e9a3c1e06a1d4337b8fcfca2545f5e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8d779b2c9c066db2405f8dc1aa787fea/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/k-hr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b751dd27566a4dcbcb59e6d99a78db1e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/k-hr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b751dd27566a4dcbcb59e6d99a78db1e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/fc7880db938fb921b34eaf45c6dc0ee0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/fc7880db938fb921b34eaf45c6dc0ee0/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d6f2b37ac7e061252a5235accff7d971/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d6f2b37ac7e061252a5235accff7d971/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66dfa511e4ff7b14ea2778fa22ae4aa9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66dfa511e4ff7b14ea2778fa22ae4aa9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d6f2b37ac7e061252a5235accff7d971/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.k_hr.java_proj.MainActivity
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:12:19-47
+activity#com.example.k_hr.java_proj.flash_page
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:13:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.k_hr.java_proj.Welcome_page
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:20:19-47
+meta-data#preloaded_fonts
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:22:9-24:57
+	android:resource
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:23:13-43
+activity#com.example.k_hr.java_proj.NewsActivity
+ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/095786d2eebab2d56a528f578966da05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/095786d2eebab2d56a528f578966da05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/k-hr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b751dd27566a4dcbcb59e6d99a78db1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/k-hr/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b751dd27566a4dcbcb59e6d99a78db1e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/fc7880db938fb921b34eaf45c6dc0ee0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/fc7880db938fb921b34eaf45c6dc0ee0/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/25b420e6c4423c48640fe09fcfe4ec8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/25b420e6c4423c48640fe09fcfe4ec8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5261dc4570cb67fb4bf344c3ebb8e08d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5261dc4570cb67fb4bf344c3ebb8e08d/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9501c562bf07d4769a252487885a966d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9501c562bf07d4769a252487885a966d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/775e4fd9d6e87df8794fdd447b4dbc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/775e4fd9d6e87df8794fdd447b4dbc2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1d70c6d1162fd180bd6ac9b35c7fd3ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1d70c6d1162fd180bd6ac9b35c7fd3ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d977a7a4fa18f8e07adefa240b12022d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d977a7a4fa18f8e07adefa240b12022d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1b4e404679ba72babfb7420ac1874e01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1b4e404679ba72babfb7420ac1874e01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2ee9e4d52bcc16a0f7cb16b0855659eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2ee9e4d52bcc16a0f7cb16b0855659eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee52643de573500d4ad8103f53a3f5ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee52643de573500d4ad8103f53a3f5ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d63b59f0a1d55431ab61462e7e143f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/d63b59f0a1d55431ab61462e7e143f56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/add152b9a7a0e847bbd51ee83290917e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/add152b9a7a0e847bbd51ee83290917e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/92886b4321ca60d30d99d4b38f5b4752/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/92886b4321ca60d30d99d4b38f5b4752/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bb2c2b916e3605f5b91fa246942f5759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bb2c2b916e3605f5b91fa246942f5759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bb69da85e24ec1d7be0ee0ff1ecc3b15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/bb69da85e24ec1d7be0ee0ff1ecc3b15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3aead8f74dd3850fd322cc23e79b6060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/3aead8f74dd3850fd322cc23e79b6060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d6f2b37ac7e061252a5235accff7d971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d6f2b37ac7e061252a5235accff7d971/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66dfa511e4ff7b14ea2778fa22ae4aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66dfa511e4ff7b14ea2778fa22ae4aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0a8f85f074ca3653534f946447969d0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0a8f85f074ca3653534f946447969d0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/f5a795d73f45ff85ce059bc0ac5719cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/f5a795d73f45ff85ce059bc0ac5719cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c94f8acc80347e7f7affbf808c7843f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c94f8acc80347e7f7affbf808c7843f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/140a14335c3f795c499c42df4bd51ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/140a14335c3f795c499c42df4bd51ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6739b3aeeb0cda95e302b0b88ef790ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6739b3aeeb0cda95e302b0b88ef790ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/379ef798500830474ce2369614f00d1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/379ef798500830474ce2369614f00d1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cdfc0aa0d7b861a8133dfbf68d8d6389/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cdfc0aa0d7b861a8133dfbf68d8d6389/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c001459d0b0d82f0d39fee9de2b0419c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/k-hr/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c001459d0b0d82f0d39fee9de2b0419c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/188e408186ed6fa04489f907edd7ca33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/188e408186ed6fa04489f907edd7ca33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3e9a3c1e06a1d4337b8fcfca2545f5e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3e9a3c1e06a1d4337b8fcfca2545f5e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8d779b2c9c066db2405f8dc1aa787fea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/k-hr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8d779b2c9c066db2405f8dc1aa787fea/AndroidManifest.xml:20:5-44
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		ADDED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+		INJECTED from /home/k-hr/AndroidStudioProjects/java_proj/app/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/k-hr/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/d5025f1dad5201165c772055037ccd27/AndroidManifest.xml:9:13-64
